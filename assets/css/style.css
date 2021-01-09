@@ -177,6 +177,9 @@ header {
   letter-spacing: 2px;
 }
 
+div#map {
+  min-height: 360px;
+}
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
